@@ -1,4 +1,4 @@
-alert("Do you want to find the snake percentage of ur friend");
+alert("Do you want to know how much of a snake your friend could be?");
 // prompt("What is your name?");
 var gname= prompt("type the name?");
 var loveScore=Math.random() * 100;
